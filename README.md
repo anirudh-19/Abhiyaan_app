@@ -41,4 +41,4 @@ I am the one
 I am an author at MotorBeam.com, an automobile journalist website, and also will be interning for another webisite for the car space in Dubai.
 
 Did you attempt bonus questions:
-1. Yes 2. Yes 3. No
+1. No 2. No 3. No
